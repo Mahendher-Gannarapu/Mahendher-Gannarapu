@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahendher-Gannarapu</h1>
 <h3 align="center">A passionate software tester from India</h3>
 
-- 🌱 I’m currently learning **Automation Selenium with Java language course**
+- 🌱  **Automation Selenium with Java language** course completed
 
 - 📫 How to reach me **gannarapu.mahendher99@gmail.com**
 
